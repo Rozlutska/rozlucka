@@ -1,0 +1,6 @@
+D:\oop\ooap4laba\ooap4laba\obj\Debug\ooap4laba.csproj.AssemblyReference.cache
+D:\oop\ooap4laba\ooap4laba\obj\Debug\ooap4laba.csproj.SuggestedBindingRedirects.cache
+D:\oop\ooap4laba\ooap4laba\obj\Debug\ooap4laba.Form1.resources
+D:\oop\ooap4laba\ooap4laba\obj\Debug\ooap4laba.Properties.Resources.resources
+D:\oop\ooap4laba\ooap4laba\obj\Debug\ooap4laba.csproj.GenerateResource.cache
+D:\oop\ooap4laba\ooap4laba\obj\Debug\ooap4laba.csproj.CoreCompileInputs.cache
